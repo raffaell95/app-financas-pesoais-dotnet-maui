@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - /Users/rafaelribeiro/Documents/AppControleFinanceiro/bin/Debug/net8.0-ios/iossimulator-arm64/AppControleFinanceiro.app/libSystem.IO.Compression.Native.dylib

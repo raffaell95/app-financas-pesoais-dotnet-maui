@@ -1,0 +1,53 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AppControleFinanceiro
+build_property.ProjectDir = /Users/rafaelribeiro/Documents/AppControleFinanceiro/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[/Users/rafaelribeiro/Documents/AppControleFinanceiro/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppControleFinanceiro.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[/Users/rafaelribeiro/Documents/AppControleFinanceiro/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppControleFinanceiro.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Colors.xaml
+
+[/Users/rafaelribeiro/Documents/AppControleFinanceiro/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppControleFinanceiro.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml
+
+[/Users/rafaelribeiro/Documents/AppControleFinanceiro/Views/TransactionAdd.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppControleFinanceiro.Views.TransactionAdd.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/TransactionAdd.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/TransactionAdd.xaml
+
+[/Users/rafaelribeiro/Documents/AppControleFinanceiro/Views/TransactionEdit.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppControleFinanceiro.Views.TransactionEdit.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/TransactionEdit.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/TransactionEdit.xaml
+
+[/Users/rafaelribeiro/Documents/AppControleFinanceiro/Views/TransactionList.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppControleFinanceiro.Views.TransactionList.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/TransactionList.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/TransactionList.xaml

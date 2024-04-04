@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="AppControleFinanceiro.app/AppControleFinanceiro">
+      <BCSymbolMapName>AppControleFinanceiro.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>AppControleFinanceiro.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/rafaelribeiro/Documents/AppControleFinanceiro/obj/Debug/net8.0-ios/iossimulator-arm64/mtouch-symbols.list</SymbolFile>
+      <DSymName>AppControleFinanceiro.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/rafaelribeiro/Documents/AppControleFinanceiro</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
